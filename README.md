@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Nontapan Rujirkal</h1>
-- 📫 How to reach me: nontapan.rujirakal@gmail.com
+- 📫 How to reach me: nontapan.rujirakal@gmail.com<a href="http://www.cleartax.in">ClearTax</a>
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nontapan-rujirakal-4b1936221/)
 
 <!--
 **nontapanr/nontapanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
