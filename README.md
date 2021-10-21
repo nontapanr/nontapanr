@@ -1,6 +1,6 @@
 <h1 align="left">Hi there 👋, I'm Nontapan Rujirkal</h1> 
-[nontpan.rujirakal@gmail.com](nontapan.rujirakal@gmail.com)
-
+- 📫 How to reach me: 
+  Email : nontapan.rujirakal@gmail.com
 
 <!--
 **nontapanr/nontapanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
