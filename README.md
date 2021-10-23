@@ -1,5 +1,6 @@
-<h1 align="middle">Hi there 👋, I'm Nontapan Rujirkal</h1> 
-- 🌱 I’m currently learning everthing 😄 
+<h1 align="middle">Hi there 👋, I'm Nontapan Rujirkal</h1>
+
+- 🌱 I’m currently learning everthing 😄
 - 📫 You can get in touch with me by email at nontapan.rujirakal@gmail.com
 
 <h3 align="left">Connect with me:</h3>
