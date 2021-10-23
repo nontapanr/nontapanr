@@ -1,5 +1,5 @@
-<h1 align="middle">Hi there 👋, I'm Nontapan Rujirkal</h1>
-#### I am a Computer Engineering Student @KMITL
+<h1 align="center">Hi there 👋, I'm Nontapan Rujirkal</h1>
+<h3 align="center">A Computer Engineering Student @KMITL</h3>
 
 - 🌱 I’m currently learning everthing 😄
 - 📫 You can get in touch with me by email at nontapan.rujirakal@gmail.com
