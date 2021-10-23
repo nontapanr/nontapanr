@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋, I'm Nontapan Rujirkal</h1> 
+<h1 align="middle">Hi there 👋, I'm Nontapan Rujirkal</h1> 
 - 📫 You can get in touch with me by email at nontapan.rujirakal@gmail.com
 
 <h3 align="left">Connect with me:</h3>
