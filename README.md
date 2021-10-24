@@ -11,8 +11,8 @@
 <!-- <a href="https://www.hackerrank.com/@n115p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@n115p" height="30" width="40" /></a> -->
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nontapanr&theme=nightowl&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nontapanr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Nontapanr's GitHub stats](https://github-readme-stats.vercel.app/api?username=nontapanr&theme=nightowl&show_icons=true)
+![Nontapanr's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=nontapanr&show_icons=true&locale=en&layout=compact&theme=nightowl)   
 
 <!--
 **nontapanr/nontapanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
