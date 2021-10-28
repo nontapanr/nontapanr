@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Nontapan Rujirkal</h1>
 <h3 align="center">A Computer Engineering Student @KMITL</h3>
 
-- 🌱 I’m currently learning everthing 😄
+- 🌱 I’m currently learning everything 😄
 - 📫 You can get in touch with me by email at nontapan.rujirakal@gmail.com
 
 <h3 align="left">Connect with me:</h3>
