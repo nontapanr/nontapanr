@@ -17,7 +17,7 @@
 
 <a href="https://www.linkedin.com/in/nontapan-rujirakal" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://medium.com/@nontapan" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="100"></a>
-<a href="https://www.hackerrank.com/@n115p" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+<!-- <a href="https://www.hackerrank.com/@n115p" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a> -->
 
 [![Visits Badge](https://badges.pufler.dev/visits/nontapanr/nontapanr)](https://badges.pufler.dev)
 
