@@ -19,8 +19,6 @@
 <a href="https://medium.com/@nontapan" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="100"></a>
 <!-- <a href="https://www.hackerrank.com/@n115p" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a> -->
 
-[![Visits Badge](https://badges.pufler.dev/visits/nontapanr/nontapanr)](https://badges.pufler.dev)
-
 <!-- 
 ![Nontapanr's GitHub stats](https://github-readme-stats.vercel.app/api?username=nontapanr&theme=nightowl&show_icons=true)
 ![Nontapanr's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=nontapanr&show_icons=true&locale=en&layout=compact&theme=nightowl)   
